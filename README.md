@@ -1,4 +1,5 @@
 # 💫 About Me:
+
 Oi, sou o Thiago! 😁<br> - 🌱 Estou aprendendo sobre banco de dados, linguagens de programação e outros tópicos relacionados.<br> - 🔭 Abaixo estão minhas redes sociais e projetos pessoais.
 
 
