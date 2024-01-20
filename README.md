@@ -1,7 +1,7 @@
-# 💫 About Me:
+# Oi, sou o Thiago! 😁
 
-Oi, sou o Thiago! 😁<br> - 🌱 Estou aprendendo sobre banco de dados, linguagens de programação e outros tópicos relacionados.<br> - 🔭 Abaixo estão minhas redes sociais e projetos pessoais.
-
+- 🌱 Estou aprendendo sobre banco de dados, linguagens de programação e outros tópicos relacionados.
+- 🔭 Abaixo estão minhas redes sociais e projetos pessoais.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thiolivrr/) 
