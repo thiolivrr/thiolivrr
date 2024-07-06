@@ -1,4 +1,4 @@
-# Hmm...
+# Oi, Thiago!
 
 - Cursando ciência da computação, aprendendo sobre banco de dados, linguagens de programação e outros tópicos relacionados.
 
