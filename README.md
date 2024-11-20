@@ -1,6 +1,6 @@
 # About Me
 
-I am a computer science student currently focusing on studying **Functional Programming**.
+I am a computer science student currently focusing on **Functional Programming**.
 
 You can find me at
 - 👤 [LinkedIn](https://www.linkedin.com/in/thiolivrr/)
