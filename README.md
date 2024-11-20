@@ -8,4 +8,4 @@ You can find me at
 
 Skills
 - Programming Languages: Java, Python
-- Technologies: Databases
+- Databases
