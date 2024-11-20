@@ -7,5 +7,5 @@ I am a computer science student currently focusing on studying **Functional Prog
 - 🌐 [HackerRank](https://www.hackerrank.com/oliveirathiago11)
 
 ### Skills:
-- Programming Languages: [Java, Python]
-- Technologies: [Databases]
+- Programming Languages: Java, Python
+- Technologies: Databases
