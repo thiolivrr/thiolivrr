@@ -9,3 +9,4 @@ You can find me at
 Skills
 - Programming Languages: Java, Python
 - Databases
+- RDBMS: MySQL, Microsoft SQL Server
